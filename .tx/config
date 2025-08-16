@@ -6,5 +6,5 @@ lang_map = sr@latin: sr_Latn
 file_filter            = debug_toolbar/locale/<lang>/LC_MESSAGES/django.po
 source_file            = debug_toolbar/locale/en/LC_MESSAGES/django.po
 source_lang            = en
-replace_edited_strings = false
+replace_edited_strings = true
 keep_translations      = false
